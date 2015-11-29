@@ -5,4 +5,5 @@
 | ------------- |:---------------------:| 
 | Diogenes      | Polanco               | 
 | Carlos        | Felix                 | 
-| Alexander     | Villaman              | 
+| Alexander     | Villaman              |
+| Randy         | Dominguez             | 
